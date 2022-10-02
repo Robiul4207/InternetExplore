@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:layout_toStartOf="@id/row_history_menu"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:layout_toLeftOf="@id/row_history_menu">
+
+        <TextView
+            android:id="@+id/row_history_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:lines="1"
+            android:text="Medium Text"
+            android:textStyle="normal"
+            android:textSize="16sp"
+            android:textColor="@android:color/black" />
+        <TextView
+            android:id="@+id/row_history_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:lines="1"
+            android:text="TextView"
+            android:textColor="@color/dark_orange"
+            android:textSize="14sp"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/row_history_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:padding="16dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ic_baseline_more_vert_24"
+        android:layout_alignParentRight="true"
+        app:tint="@color/colorAccent" />
+
+</RelativeLayout>

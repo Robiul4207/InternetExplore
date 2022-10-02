@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/back"
+        android:title="Back"
+        android:icon="@drawable/ic_round_arrow_back_24"/>
+
+    <item android:id="@+id/forward"
+        android:title="Forward"
+        android:icon="@drawable/ic_round_arrow_forward_24"/>
+
+    <item android:id="@+id/stop"
+        android:title="Stop"
+        android:icon="@drawable/ic_round_stop_24"/>
+
+    <item android:id="@+id/refbtn"
+        android:title="Refresh"
+        android:icon="@drawable/ic_round_refresh_24"/>
+
+    <item android:id="@+id/browserhome"
+        android:title="Home"
+        android:icon="@drawable/ic_round_home_24"/>
+
+
+</menu>
+

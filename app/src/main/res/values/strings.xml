@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InternetExplore</string>
+
+    <string name="developer_text">
+
+        Name:Md.Robiul Islam \n
+        E-mail:iit.robiulisla@gmail.com\n
+        Website:robiulislamsumon000webhost.app\n
+        Profession:Banker,Apps developer \n
+        Address:680/d,East Monipur,\n WestKazipara,Mirpur
+
+
+    </string>
+    <string name="some_Error_Occur" />
+    <string name="yes" />
+    <string name="download_file" />
+    <string name="download_title" />
+</resources>

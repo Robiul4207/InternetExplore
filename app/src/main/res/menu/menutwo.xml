@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:title="">
+        <menu>
+
+            <item
+                android:id="@+id/refresh"
+                android:icon="@drawable/ic_round_refresh_24"
+                android:title="Refresh"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/history"
+                android:icon="@drawable/ic_round_history_24"
+                android:title="History"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/setting"
+                android:icon="@drawable/ic_settings_24"
+                android:title="Setting"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/favouritestar"
+                android:icon="@drawable/ic_baseline_bookmark_border_24"
+                android:title="Favourite"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/download"
+                android:icon="@drawable/ic_round_download"
+                android:title="Download"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/DarkOrLight"
+                android:icon="@drawable/ic_round_nights_stay_24"
+                android:title="Dark Or Light"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/desktopMode"
+                android:icon="@drawable/ic_round_desktop"
+                android:title="Desktop Mode"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/ScanqrCode"
+                android:icon="@drawable/ic_round_qr"
+                android:title="Scan Bar Code"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/ExitWebBrowser"
+                android:icon="@drawable/ic_round_exit"
+                android:title="Exit Web Browser"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/aboutdeveloper"
+                android:title="About Developer"
+                android:icon="@drawable/ic_round_developer"
+                app:showAsAction="never"/>
+
+        </menu>
+
+    </item>
+
+</menu>

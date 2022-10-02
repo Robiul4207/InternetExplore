@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/bottomsheet_bg.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/btngooglesearchs.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/circlebutton.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/circulebutton.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/hover_selector_two.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/ic_baseline_mic_none_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/ic_baseline_mic_off_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/ic_mic_none_black_24dp.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/ic_round_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/ic_round_stop_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/ic_star_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/micbuttonbackground.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/tabbuttonbackground.xml" value="0.147" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/drawable/transparent_rect.xml" value="0.1" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/activity_about_developer.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/activity_bookmarks.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/activity_browser_settings.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/activity_download_with_pause_resmue_new.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/activity_history.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/activity_history2.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/activity_scan_qr_code.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/custom_dialog_for_download.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/customtoolbar.xml" value="0.25" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/history.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/history_item.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/layout/no_internet.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/menu/history_menu.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/menu/menu.xml" value="0.2" />
+        <entry key="..\:/AndroidProject-anisul/InternetExplore/app/src/main/res/menu/menutwo.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

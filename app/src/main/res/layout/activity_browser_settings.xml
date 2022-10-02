@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".BrowserSettings">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight="0.8"
+      android:elevation="5dp"
+      android:orientation="horizontal"
+      android:weightSum="5">
+
+    <ImageView
+        android:id="@+id/btnCancelSetting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/ic_round_arrow_back_24" />
+
+    <TextView
+        android:id="@+id/Setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="120dp"
+        android:layout_marginLeft="120dp"
+        android:text="Setting"
+        android:textSize="20dp" />
+
+  </LinearLayout>
+
+  <View
+      android:layout_width="match_parent"
+      android:layout_height="1dp"
+      android:background="@color/gray_light3" />
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight="9.2"
+      android:orientation="vertical"
+      android:weightSum="10">
+
+
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:id="@+id/btnSwitchDayNightMode"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.7"
+        android:switchTextAppearance="@style/SwitchTextAppearanceByMe"
+        android:text="Daynight Mode On/Off"
+        android:textSize="16dp">
+
+    </com.google.android.material.switchmaterial.SwitchMaterial>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray_light"/>
+
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:id="@+id/btnSwitchNotification"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.7"
+        android:switchTextAppearance="@style/SwitchTextAppearanceByMe"
+        android:text="Notification On/Off"
+        android:textSize="16dp">
+
+    </com.google.android.material.switchmaterial.SwitchMaterial>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray_light" />
+
+  </LinearLayout>
+
+</LinearLayout>
